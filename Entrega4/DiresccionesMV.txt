@@ -1,0 +1,11 @@
+git-IP Privada y Pública de la Máquina Virtual:
+IP Privada:  192.168.1.145
+
+IP Pública: 190.11.86.143
+
+-Dirección MAC de la Máquina Virtual:
+MAC: b6:6a:d1:40:5b:16
+
+
+-¿Es diferente a la IP pública y privada de nuestra máquina host?
+La IP privada es distinta. La IP Pública es la misma ya que esta máquina se conecta a internet através de la host.
