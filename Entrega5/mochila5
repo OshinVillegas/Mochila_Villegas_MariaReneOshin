@@ -13,7 +13,7 @@ se envía en texto plano. Esto lo hace susceptible a ataques de "sniffing" y sup
 Carece de autenticación sólida: Telnet no proporciona mecanismos de autenticación fuertes, 
 lo que dificulta la verificación de la identidad de los usuarios y aumenta el riesgo de acceso no autorizado a los sistemas.
 SSH:
-a) Ventajas y desventajas de utilizar el protocolo SSH:
+a) Ventajas y desventajas de utilizar el protocolo SSH:..
 Ventajas:
 
 Seguridad mejorada: SSH cifra los datos transmitidos, lo que garantiza la confidencialidad e integridad de la información. Además, 
